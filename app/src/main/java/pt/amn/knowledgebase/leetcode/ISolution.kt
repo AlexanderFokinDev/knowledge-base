@@ -1,5 +1,5 @@
 package pt.amn.knowledgebase.leetcode
 
-interface Solution {
-    fun getResult() : Any
+interface Solution<R> {
+    fun getResult() : R
 }
