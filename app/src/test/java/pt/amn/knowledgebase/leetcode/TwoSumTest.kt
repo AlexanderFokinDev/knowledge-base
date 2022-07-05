@@ -10,7 +10,7 @@ class TwoSumTest {
         val nums = intArrayOf(3, 6, 7, 4, 3, 2, 7, 1, 10, 9)
         val target = 7
         val solver = TwoSum(nums, target)
-        assertArrayEquals(intArrayOf(0, 3), solver.getResult() as IntArray)
+        assertArrayEquals(intArrayOf(0, 3), solver.getResult())
     }
 
 }
