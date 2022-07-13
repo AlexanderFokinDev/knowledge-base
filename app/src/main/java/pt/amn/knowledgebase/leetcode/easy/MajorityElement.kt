@@ -1,4 +1,6 @@
-package pt.amn.knowledgebase.leetcode
+package pt.amn.knowledgebase.leetcode.easy
+
+import pt.amn.knowledgebase.leetcode.Solution
 
 /**
  * Given an array nums of size n, return the majority element.

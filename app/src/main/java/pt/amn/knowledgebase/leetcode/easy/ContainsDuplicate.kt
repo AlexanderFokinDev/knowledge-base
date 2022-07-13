@@ -1,4 +1,6 @@
-package pt.amn.knowledgebase.leetcode
+package pt.amn.knowledgebase.leetcode.easy
+
+import pt.amn.knowledgebase.leetcode.Solution
 
 /**
  * Если в массиве есть элемент повторяющийся 2 и более раз вернуть true, иначе false.
