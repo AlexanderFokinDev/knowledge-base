@@ -1,4 +1,6 @@
-package pt.amn.knowledgebase.leetcode
+package pt.amn.knowledgebase.leetcode.easy
+
+import pt.amn.knowledgebase.leetcode.Solution
 
 class SingleNumber(val nums: IntArray) : Solution<Int> {
     override fun getResult(): Int {

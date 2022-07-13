@@ -1,4 +1,6 @@
-package pt.amn.knowledgebase.leetcode
+package pt.amn.knowledgebase.leetcode.easy
+
+import pt.amn.knowledgebase.leetcode.Solution
 
 class PalindromeNumber(private val x: Int) : Solution<Boolean> {
 

@@ -1,4 +1,7 @@
-package pt.amn.knowledgebase.leetcode
+package pt.amn.knowledgebase.leetcode.easy
+
+import pt.amn.knowledgebase.leetcode.ListNode
+import pt.amn.knowledgebase.leetcode.Solution
 
 class MergeTwoSortedLists(var list1: ListNode?, var list2: ListNode?) : Solution<ListNode?> {
     override fun getResult(): ListNode? {
