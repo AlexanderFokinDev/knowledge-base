@@ -1,7 +1,8 @@
-package pt.amn.knowledgebase.leetcode
+package pt.amn.knowledgebase.leetcode.easy
 
 import org.junit.Assert.*
 import org.junit.Test
+import pt.amn.knowledgebase.leetcode.easy.TwoSum
 
 class TwoSumTest {
 
