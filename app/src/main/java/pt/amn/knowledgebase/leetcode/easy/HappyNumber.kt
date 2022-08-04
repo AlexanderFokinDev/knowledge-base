@@ -16,7 +16,12 @@ class HappyNumber(val n: Int) : Solution<Boolean> {
 
     override fun getResult(): Boolean {
 
-        return countNumber(n) == 1
+        try {
+            return countNumber(n) == 1
+        } catch (e: StackOverflowError) {
+            return false
+        }
+
 
     }
 
