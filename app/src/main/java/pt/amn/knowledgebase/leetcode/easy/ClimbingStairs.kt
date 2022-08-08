@@ -18,7 +18,7 @@ class ClimbingStairs(private val n: Int) : Solution<Int> {
         var prevNum = 1
         for (num in n-2 downTo 0) {
             temp = curNum
-            curNum = curNum + prevNum
+            curNum += prevNum
             prevNum = temp
         }
 
