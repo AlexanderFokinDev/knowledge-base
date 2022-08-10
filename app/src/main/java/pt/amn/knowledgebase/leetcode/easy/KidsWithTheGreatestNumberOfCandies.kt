@@ -11,7 +11,7 @@ class KidsWithTheGreatestNumberOfCandies(val candies: IntArray, val extraCandies
     : Solution<BooleanArray> {
 
     override fun getResult(): BooleanArray {
-        val maxCandies = candies.max() ?: 0
+        val maxCandies = candies.maxOrNull() ?: 0
         val result = BooleanArray(candies.size)
         var i = 0;
         for(kid in candies) {
