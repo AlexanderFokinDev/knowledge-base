@@ -22,6 +22,9 @@ class ResearchSimpleClass(val id: Int, val name: String) {
 
 data class ResearchDataClass(val id: Int, val name: String)
 
+// You can't inheritance from data class
+//data class InheritanyResearchDataClass(val id: Int, val name: String) : ResearchDataClass(id, name)
+
 class ResearchSimpleClassWithOverrideMetods(val id: Int, val name: String) {
 
     override fun equals(other: Any?): Boolean {
@@ -40,4 +43,5 @@ class ResearchSimpleClassWithOverrideMetods(val id: Int, val name: String) {
     override fun toString(): String {
         return "ResearchSimpleClassWithOverrideMetods(id=$id, name=$name)"
     }
+
 }
