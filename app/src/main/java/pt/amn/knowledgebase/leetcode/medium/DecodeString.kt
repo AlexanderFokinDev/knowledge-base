@@ -19,6 +19,82 @@ class DecodeString(private val s: String) : Solution<String> {
 
     override fun getResult(): String {
 
-        return ""
+        return getMutableListFromString(s)
     }
+
+    private fun getMutableListFromString(
+        str: String
+    ) : String {
+
+        val mutableList = mutableListOf<ClosedString>()
+
+        var index = 0
+        while (index < str.length) {
+            if(str[index].isLetter()) {
+                mutableList.add(ClosedString(1, str[index].toString()))
+                index++
+            } else if (str[index].isDigit()) {
+                val digit = getDigitFromString(str.substring(index))
+
+                val subStr = getSubstring(digit, str.substring(index))
+                val innerString = getMutableListFromString(subStr)
+
+                var multiplyStr = ""
+                for (i in 1..digit) {
+                    multiplyStr += innerString
+                }
+
+                mutableList.add(ClosedString(1, multiplyStr))
+                index += digit.toString().length + 2 + subStr.length
+            } else {
+                index++
+            }
+        }
+
+        return mutableListToString(mutableList)
+    }
+
+    private fun mutableListToString(mutList: MutableList<ClosedString>) : String {
+
+        var decodeString = ""
+        for (el in mutList) {
+            for (i in 1..el.number) {
+                decodeString += el.closeString
+            }
+        }
+
+        return decodeString
+    }
+
+    private fun getDigitFromString(substring: String) : Int {
+        var num = ""
+        var index = 0
+        while (substring[index] != '[') {
+            num += substring[index]
+            index++
+        }
+        return num.toInt()
+    }
+
+    private fun getSubstring(digit: Int, substring: String) : String {
+
+        val startParenthess = digit.toString().length
+        var endParenthess = substring.length-1
+        var countParenthess = 1
+
+        for (symb in startParenthess+1 until substring.length) {
+            if (substring[symb] == ']' && countParenthess == 1) {
+                endParenthess = symb
+                break
+            } else if (substring[symb] == '[') {
+                countParenthess++
+            } else if (substring[symb] == ']') {
+                countParenthess--
+            }
+        }
+
+        return substring.substring(startParenthess+1, endParenthess)
+    }
+
+    data class ClosedString(val number: Int, val closeString: String)
 }
