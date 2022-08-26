@@ -12,7 +12,7 @@ Every day I improve my skills as an Android Developer:
 | Useful IT examples and solutions              | Count of examples  |
 | --------------------------------------------- | ------------------ |
 | [SQL](documents/sql.md)                       | 1                  |
-| [Algorithms](documents/algorithm.md)          | 1                  |
+| [Algorithms](documents/algorithm.md)          | 0                  |
 | [Kotlin](documents/kotlin.md)                 | 0                  |
 | [Android](documents/android.md)               | 0                  |
 | [1C](documents/oneS.md)                       | 1                  |
