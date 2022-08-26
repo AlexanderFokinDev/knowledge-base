@@ -4,11 +4,11 @@
 
 ```sql
 SELECT
-A1.sell_date,
-Count(DISTINCT A1.product) AS num_sold,
-GROUP_CONCAT(DISTINCT A1.product
-ORDER BY A1.product ASC SEPARATOR ',') AS products
+    A1.sell_date,
+    Count(DISTINCT A1.product) AS num_sold,
+    GROUP_CONCAT(DISTINCT A1.product
+        ORDER BY A1.product ASC SEPARATOR ',') AS products
 FROM
-Activities AS A1
+    Activities AS A1
 GROUP BY
-A1.sell_date```
+    A1.sell_date```
