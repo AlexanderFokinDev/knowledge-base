@@ -11,8 +11,8 @@ Every day I improve my skills as an Android Developer:
 ### Leetcode (solved tasks)
 | Arrays (easy)                                                                                  |
 | ---------------------------------------------------------------------------------------------- |
-| [Number of good pairs](app/src/main/java/leetcode/easy/arrays/NumberOfGoodPairs.kt), [Tests](app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/NumberOfGoodPairsTest.kt)  |
-| [Maximum number of words found in sentences](app/src/main/java/leetcode/easy/arrays/MaximumNumberOfWordsFoundInSentences.kt), [Tests](app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/MaximumNumberOfWordsFoundInSentencesTest.kt)  |
+| [Number of good pairs](app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/NumberOfGoodPairs.kt), [Tests](app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/NumberOfGoodPairsTest.kt)  |
+| [Maximum number of words found in sentences](app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/MaximumNumberOfWordsFoundInSentences.kt), [Tests](app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/MaximumNumberOfWordsFoundInSentencesTest.kt)  |
 
 
 ### Table of Contents
