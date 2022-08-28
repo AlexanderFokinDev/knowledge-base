@@ -13,6 +13,7 @@ Every day I improve my skills as an Android Developer:
 | ---------------------------------------------------------------------------------------------- |
 | [Number of good pairs](app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/NumberOfGoodPairs.kt), [Tests](app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/NumberOfGoodPairsTest.kt)  |
 | [Maximum number of words found in sentences](app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/MaximumNumberOfWordsFoundInSentences.kt), [Tests](app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/MaximumNumberOfWordsFoundInSentencesTest.kt)  |
+| [How Many Numbers Are Smaller Than the Current Number](app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/SmallerNumbersThanCurrent.kt), [Tests](app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/SmallerNumbersThanCurrentTest.kt)  |
 
 
 ### Table of Contents
