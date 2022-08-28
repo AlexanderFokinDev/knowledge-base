@@ -11,4 +11,13 @@ SELECT
 FROM
     Activities AS A1
 GROUP BY
-    A1.sell_date```
+    A1.sell_date
+```
+
+
+#### 2. UPDATE a table. Examples
+
+```sql
+UPDATE Salary
+SET sex = if(sex='m', 'f', 'm')
+```
