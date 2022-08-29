@@ -15,6 +15,7 @@ Every day I improve my skills as an Android Developer:
 | [Maximum number of words found in sentences](app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/MaximumNumberOfWordsFoundInSentences.kt), [Tests](app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/MaximumNumberOfWordsFoundInSentencesTest.kt)  |
 | [How Many Numbers Are Smaller Than the Current Number](app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/SmallerNumbersThanCurrent.kt), [Tests](app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/SmallerNumbersThanCurrentTest.kt)  |
 | [Shuffle String](app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/ShuffleString.kt), [Tests](app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/ShuffleStringTest.kt)  |
+| [Decompress Run-Length Encoded List](app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/DecompressRunLengthEncodedList.kt), [Tests](app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/DecompressRunLengthEncodedListTest.kt)  |
 
 
 ### Table of Contents
