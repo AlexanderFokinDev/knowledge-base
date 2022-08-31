@@ -17,6 +17,7 @@ Every day I improve my skills as an Android Developer:
 | [Shuffle String](app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/ShuffleString.kt), [Tests](app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/ShuffleStringTest.kt)  |
 | [Decompress Run-Length Encoded List](app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/DecompressRunLengthEncodedList.kt), [Tests](app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/DecompressRunLengthEncodedListTest.kt)  |
 | [Create Target Array in the Given Order](app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/CreateTargetArrayInTheGivenOrder.kt), [Tests](app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/CreateTargetArrayInTheGivenOrderTest.kt)  |
+| [Decode XOR-ed Array](app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/DecodeXORedArray.kt), [Tests](app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/DecodeXORedArrayTest.kt)  |
 
 
 ### Table of Contents
