@@ -23,7 +23,7 @@ SET sex = if(sex='m', 'f', 'm')
 ```
 
 
-#### 3. Select top rows from the table. Example
+#### 3. Select top rows from the table. Example. Keyword `LIMIT`
 
 ```sql
 SELECT 

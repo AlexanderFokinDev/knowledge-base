@@ -25,6 +25,7 @@ Every day I improve my skills as an Android Developer:
 | --------------------------------------------- | ------------------ |
 | [SQL](documents/sql.md)                       | 3                  |
 | [Algorithms](documents/algorithm.md)          | 0                  |
+| [Leetcode](documents/leetcode.md)          | 8                  |
 | [Kotlin](documents/kotlin.md)                 | 2                  |
 | [Android](documents/android.md)               | 0                  |
 | [1C](documents/oneS.md)                       | 1                  |
