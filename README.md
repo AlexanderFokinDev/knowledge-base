@@ -23,7 +23,7 @@ Every day I improve my skills as an Android Developer:
 ### Table of Contents
 | Useful IT examples and solutions              | Count of examples  |
 | --------------------------------------------- | ------------------ |
-| [SQL](documents/sql.md)                       | 2                  |
+| [SQL](documents/sql.md)                       | 3                  |
 | [Algorithms](documents/algorithm.md)          | 0                  |
 | [Kotlin](documents/kotlin.md)                 | 2                  |
 | [Android](documents/android.md)               | 0                  |

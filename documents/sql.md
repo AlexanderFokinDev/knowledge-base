@@ -21,3 +21,23 @@ GROUP BY
 UPDATE Salary
 SET sex = if(sex='m', 'f', 'm')
 ```
+
+
+#### 3. Select top rows from the table. Example
+
+```sql
+SELECT 
+    customer_number
+FROM
+    (SELECT
+        customer_number,
+        COUNT(order_number) AS order_count
+    FROM
+        Orders
+    GROUP BY
+        customer_number) AS GroupTable
+ORDER BY
+    order_count DESC,
+    customer_number
+LIMIT 1
+```
