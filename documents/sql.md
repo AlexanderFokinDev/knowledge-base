@@ -64,3 +64,15 @@ ORDER BY
     travelled_distance DESC,
     name
 ```
+
+```sql
+SELECT
+    IF(id%2=0, id-1, 
+       IF(id = countRows.size, id, id+1)) AS id,
+    student
+FROM
+    Seat,
+    (SELECT Count(id) AS size FROM Seat) countRows
+ORDER BY
+    id
+```
