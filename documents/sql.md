@@ -41,3 +41,26 @@ ORDER BY
     customer_number
 LIMIT 1
 ```
+
+#### 4. Using the conditional operator. Example. Keyword `IF (<condition>, <true_value>, <false_value>)`
+
+```sql
+SELECT
+    innerTable.name,
+    innerTable.travelled_distance
+FROM
+( SELECT
+    Users.id AS user_id,
+    Users.name AS name,
+    SUM(IF(Rides.distance is NULL, 0, Rides.distance))  AS travelled_distance
+FROM
+    Users LEFT JOIN Rides
+    ON Rides.user_id = Users.id
+GROUP BY
+    Users.id,
+    Users.name
+ ) AS innerTable
+ORDER BY
+    travelled_distance DESC,
+    name
+```
