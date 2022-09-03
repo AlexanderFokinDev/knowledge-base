@@ -14,3 +14,8 @@
 | Strings (easy)                                                                                  |
 | ---------------------------------------------------------------------------------------------- |
 | [Jewels and Stones](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/strings/JewelsAndStones.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/strings/JewelsAndStonesTest.kt)  |
+
+
+| Greedy (easy)                                                                                  |
+| ---------------------------------------------------------------------------------------------- |
+| [Minimum Sum of Four Digit Number After Splitting Digits](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/greedy/MinimumSumOfFourDigit.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/greedy/MinimumSumOfFourDigitTest.kt)  |
