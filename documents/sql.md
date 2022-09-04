@@ -76,3 +76,20 @@ FROM
 ORDER BY
     id
 ```
+
+#### 5. Using the case operator and the left operator. Example. 
+#### Keyword `CASE WHEN <condition1> THEN <value1> WHEN <condition2> THEN <value2> ELSE <value_default> END` 
+#### and 'LEFT(<string>, <count_symbols>)'
+
+```sql
+SELECT
+    employee_id,
+    CASE
+        WHEN employee_id % 2 <> 0 AND LEFT(name, 1) <> 'M' THEN salary
+        ELSE 0
+    END AS bonus
+FROM
+    Employees
+ORDER BY
+    employee_id
+```
