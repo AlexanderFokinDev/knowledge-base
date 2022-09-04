@@ -41,3 +41,55 @@ ORDER BY
     customer_number
 LIMIT 1
 ```
+
+#### 4. Using the conditional operator. Example. Keyword `IF (<condition>, <true_value>, <false_value>)`
+
+```sql
+SELECT
+    innerTable.name,
+    innerTable.travelled_distance
+FROM
+( SELECT
+    Users.id AS user_id,
+    Users.name AS name,
+    SUM(IF(Rides.distance is NULL, 0, Rides.distance))  AS travelled_distance
+FROM
+    Users LEFT JOIN Rides
+    ON Rides.user_id = Users.id
+GROUP BY
+    Users.id,
+    Users.name
+ ) AS innerTable
+ORDER BY
+    travelled_distance DESC,
+    name
+```
+
+```sql
+SELECT
+    IF(id%2=0, id-1, 
+       IF(id = countRows.size, id, id+1)) AS id,
+    student
+FROM
+    Seat,
+    (SELECT Count(id) AS size FROM Seat) countRows
+ORDER BY
+    id
+```
+
+#### 5. Using the case operator and the left operator. Example. 
+#### Keyword `CASE WHEN <condition1> THEN <value1> WHEN <condition2> THEN <value2> ELSE <value_default> END` 
+#### and 'LEFT(<string>, <count_symbols>)'
+
+```sql
+SELECT
+    employee_id,
+    CASE
+        WHEN employee_id % 2 <> 0 AND LEFT(name, 1) <> 'M' THEN salary
+        ELSE 0
+    END AS bonus
+FROM
+    Employees
+ORDER BY
+    employee_id
+```

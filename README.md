@@ -11,9 +11,9 @@ Every day I improve my skills as an Android Developer:
 ### Table of Contents
 | Useful IT examples and solutions              | Count of examples  |
 | --------------------------------------------- | ------------------ |
-| [SQL](documents/sql.md)                       | 3                  |
-| [Algorithms](documents/algorithm.md)          | 0                  |
-| [Leetcode](documents/leetcode.md)             | 8                  |
-| [Kotlin](documents/kotlin.md)                 | 2                  |
+| [SQL](documents/sql.md)                       | 5                  |
+| [Algorithms](documents/algorithm.md)          | 1                  |
+| [Leetcode](documents/leetcode.md)             | 9                  |
+| [Kotlin](documents/kotlin.md)                 | 3                  |
 | [Android](documents/android.md)               | 0                  |
-| [1C](documents/oneS.md)                       | 1                  |
+| [1C](documents/oneS.md)                       | 2                  |
