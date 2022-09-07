@@ -94,6 +94,8 @@ class ClassesStandartMethodsResearchTest {
         assertEquals(1, hashMap.size)
 
         assertEquals(rs1.hashCode(), rs2.hashCode())
+
+        assertFalse(rs1 === rs2)
     }
 
     @Test
@@ -128,6 +130,15 @@ class ClassesStandartMethodsResearchTest {
         hashMap.put(rs1, 1)
         hashMap.put(rs2, 2)
         assertEquals(1, hashMap.size)
+    }
+
+    @Test
+    fun `componentN method of the data class return correct data`() {
+
+        val rs1 = ResearchDataClass(1, "ResearchDataClass 1")
+
+        assertEquals(1, rs1.component1())
+        assertEquals("ResearchDataClass 1", rs1.component2())
     }
 
 }
