@@ -20,3 +20,8 @@
 | Greedy (easy)                                                                                  |
 | ---------------------------------------------------------------------------------------------- |
 | [Minimum Sum of Four Digit Number After Splitting Digits](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/greedy/MinimumSumOfFourDigit.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/greedy/MinimumSumOfFourDigitTest.kt)  |
+
+
+| Math (easy)                                                                                  |
+| ---------------------------------------------------------------------------------------------- |
+| [Subtract the Product and Sum of Digits of an Integer](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/greedy/SubtractProductAndSum.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/greedy/SubtractProductAndSumTest.kt)  |
