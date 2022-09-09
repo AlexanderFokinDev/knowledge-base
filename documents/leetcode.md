@@ -25,3 +25,8 @@
 | Math (easy)                                                                                  |
 | ---------------------------------------------------------------------------------------------- |
 | [Subtract the Product and Sum of Digits of an Integer](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/greedy/SubtractProductAndSum.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/greedy/SubtractProductAndSumTest.kt)  |
+
+
+| Sorting (easy)                                                                                  |
+| ---------------------------------------------------------------------------------------------- |
+| [Sorting the Sentence](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/SortingTheSentence.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/SortingTheSentenceTest.kt)  |
