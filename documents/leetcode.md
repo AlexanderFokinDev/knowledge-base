@@ -30,3 +30,8 @@
 | Sorting (easy)                                                                                  |
 | ---------------------------------------------------------------------------------------------- |
 | [Sorting the Sentence](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/SortingTheSentence.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/SortingTheSentenceTest.kt)  |
+
+
+| Hash tables (easy)                                                                                  |
+| ---------------------------------------------------------------------------------------------- |
+| [Decode the Message](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/DecodeTheMessage.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/DecodeTheMessageTest.kt)  |
