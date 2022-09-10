@@ -105,3 +105,24 @@ FROM
 ORDER BY
     user_id
 ```
+
+#### 7. Using the keyword `DATEADD`
+
+```sql
+SELECT
+    Weather.id
+FROM
+    Weather LEFT JOIN
+    (
+        SELECT
+            id,
+            recordDate,
+            temperature
+        FROM
+            Weather
+    ) AS innerTable
+    ON Weather.temperature > innerTable.temperature
+    AND Weather.recordDate = DATEADD(day, 1, innerTable.recordDate)
+WHERE
+    innerTable.recordDate IS NOT NULL
+```
