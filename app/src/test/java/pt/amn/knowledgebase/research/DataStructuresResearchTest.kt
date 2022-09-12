@@ -60,4 +60,10 @@ class DataStructuresResearchTest {
         // Can do it
         testList1.add(8)
     }
+
+    @Test
+    fun linkedListResearchTest() {
+
+        assertEquals(3, DataStructuresResearch().linkedListResearch())
+    }
 }
