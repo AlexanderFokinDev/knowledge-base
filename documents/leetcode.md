@@ -36,3 +36,4 @@
 | ---------------------------------------------------------------------------------------------- |
 | [Decode the Message](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/DecodeTheMessage.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/DecodeTheMessageTest.kt)  |
 | [Unique Morse Code Words](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/UniqueMorseCodeWords.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/UniqueMorseCodeWordsTest.kt)  |
+| [Rings and Rods](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/RingsAndRods.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/RingsAndRodsTest.kt)  |
