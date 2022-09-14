@@ -59,4 +59,25 @@ class DataStructuresResearch {
         println("hashSet3(1, 2, 3, 4).intersect(hashSet4(1, 4)): " + hashSet3.intersect(hashSet4))
 
     }
+
+    fun queueResearch() {
+
+        val queue: Queue<String> = LinkedList<String>()
+        println("add First")
+        queue.add("First")
+        println(queue)
+        println("add Second")
+        queue.add("Second")
+        println(queue)
+        println("queue.peek()" + queue.peek())
+        println("add Third")
+        queue.add("Third")
+        println(queue)
+        println("queue.peek()" + queue.peek())
+        println("remove")
+        queue.remove()
+        println(queue)
+        println("queue.peek()" + queue.peek())
+
+    }
 }

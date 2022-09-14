@@ -74,4 +74,12 @@ class DataStructuresResearchTest {
 
         assertTrue(true)
     }
+
+    @Test
+    fun queueResearchTest() {
+
+        DataStructuresResearch().queueResearch()
+
+        assertTrue(true)
+    }
 }
