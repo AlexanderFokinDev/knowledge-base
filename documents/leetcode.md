@@ -32,8 +32,9 @@
 | [Sorting the Sentence](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/SortingTheSentence.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/SortingTheSentenceTest.kt)  |
 
 
-| Hash tables (easy)                                                                                  |
+| Hash tables / Set (easy)                                                                                  |
 | ---------------------------------------------------------------------------------------------- |
 | [Decode the Message](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/DecodeTheMessage.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/DecodeTheMessageTest.kt)  |
 | [Unique Morse Code Words](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/UniqueMorseCodeWords.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/UniqueMorseCodeWordsTest.kt)  |
 | [Rings and Rods](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/RingsAndRods.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/RingsAndRodsTest.kt)  |
+| [Count the Number of Consistent Strings](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/CountTheNumberOfConsistentStrings.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/CountTheNumberOfConsistentStrings.kt)  |
