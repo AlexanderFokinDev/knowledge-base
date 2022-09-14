@@ -66,4 +66,12 @@ class DataStructuresResearchTest {
 
         assertEquals(3, DataStructuresResearch().linkedListResearch())
     }
+
+    @Test
+    fun hashSetResearchTest() {
+
+        DataStructuresResearch().hashSetResearch()
+
+        assertTrue(true)
+    }
 }

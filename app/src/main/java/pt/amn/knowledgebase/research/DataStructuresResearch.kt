@@ -49,5 +49,14 @@ class DataStructuresResearch {
 
     fun hashSetResearch() {
 
+        val hashSet1 = hashSetOf(1, 2, 3)
+        val hashSet2 = hashSetOf(1, 2, 3)
+        val hashSet3 = hashSetOf(1, 2, 3, 4)
+        val hashSet4 = hashSetOf(1, 4)
+
+        println("hashSet1 = hashSet2: " + (hashSet1 == hashSet2))
+        println("hashSet1(1, 2, 3).union(hashSet2(1, 2, 3)): " + hashSet1.union(hashSet2))
+        println("hashSet3(1, 2, 3, 4).intersect(hashSet4(1, 4)): " + hashSet3.intersect(hashSet4))
+
     }
 }
