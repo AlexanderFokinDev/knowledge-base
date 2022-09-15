@@ -30,6 +30,7 @@
 | Sorting (easy)                                                                                  |
 | ---------------------------------------------------------------------------------------------- |
 | [Sorting the Sentence](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/SortingTheSentence.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/SortingTheSentenceTest.kt)  |
+| [Minimum Number of Moves to Seat Everyone](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/MinimumNumberOfMovesToSeatEveryone.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/MinimumNumberOfMovesToSeatEveryoneTest.kt)  |
 
 
 | Hash tables / Set (easy)                                                                                  |
