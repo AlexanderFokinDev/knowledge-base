@@ -31,6 +31,7 @@
 | ---------------------------------------------------------------------------------------------- |
 | [Sorting the Sentence](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/SortingTheSentence.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/SortingTheSentenceTest.kt)  |
 | [Minimum Number of Moves to Seat Everyone](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/MinimumNumberOfMovesToSeatEveryone.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/MinimumNumberOfMovesToSeatEveryoneTest.kt)  |
+| [Maximum Product Difference Between Two Pairs](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/MaximumProductDifferenceBetweenTwoPairs.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/MaximumProductDifferenceBetweenTwoPairsTest.kt)  |
 
 
 | Hash tables / Set (easy)                                                                                  |
