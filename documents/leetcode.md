@@ -20,3 +20,24 @@
 | Greedy (easy)                                                                                  |
 | ---------------------------------------------------------------------------------------------- |
 | [Minimum Sum of Four Digit Number After Splitting Digits](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/greedy/MinimumSumOfFourDigit.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/greedy/MinimumSumOfFourDigitTest.kt)  |
+
+
+| Math (easy)                                                                                  |
+| ---------------------------------------------------------------------------------------------- |
+| [Subtract the Product and Sum of Digits of an Integer](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/greedy/SubtractProductAndSum.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/greedy/SubtractProductAndSumTest.kt)  |
+
+
+| Sorting (easy)                                                                                  |
+| ---------------------------------------------------------------------------------------------- |
+| [Sorting the Sentence](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/SortingTheSentence.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/SortingTheSentenceTest.kt)  |
+| [Minimum Number of Moves to Seat Everyone](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/MinimumNumberOfMovesToSeatEveryone.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/MinimumNumberOfMovesToSeatEveryoneTest.kt)  |
+| [Maximum Product Difference Between Two Pairs](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/MaximumProductDifferenceBetweenTwoPairs.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/MaximumProductDifferenceBetweenTwoPairsTest.kt)  |
+| [Maximum Product of Two Elements in an Array](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/MaximumProductOfTwoElementsInArray.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/MaximumProductOfTwoElementsInArrayTest.kt)  |
+
+
+| Hash tables / Set (easy)                                                                                  |
+| ---------------------------------------------------------------------------------------------- |
+| [Decode the Message](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/DecodeTheMessage.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/DecodeTheMessageTest.kt)  |
+| [Unique Morse Code Words](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/UniqueMorseCodeWords.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/UniqueMorseCodeWordsTest.kt)  |
+| [Rings and Rods](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/RingsAndRods.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/RingsAndRodsTest.kt)  |
+| [Count the Number of Consistent Strings](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/CountTheNumberOfConsistentStrings.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/CountTheNumberOfConsistentStrings.kt)  |

@@ -105,3 +105,40 @@ FROM
 ORDER BY
     user_id
 ```
+
+#### 7. Using the keyword `DATEADD`
+
+```sql
+SELECT
+    Weather.id
+FROM
+    Weather LEFT JOIN
+    (
+        SELECT
+            id,
+            recordDate,
+            temperature
+        FROM
+            Weather
+    ) AS innerTable
+    ON Weather.temperature > innerTable.temperature
+    AND Weather.recordDate = DATEADD(day, 1, innerTable.recordDate)
+WHERE
+    innerTable.recordDate IS NOT NULL
+```
+
+#### 8. Using the keyword `HAVING`. This allows you to set up a filter based on grouping results.
+
+```sql
+SELECT 
+    s.product_id, 
+    p.product_name
+FROM sales s, product p
+WHERE
+    s.product_id = p.product_id
+GROUP BY 
+    s.product_id, 
+    p.product_name
+HAVING MIN(s.sale_date) >= '2019-01-01' 
+    AND MAX(s.sale_date) <= '2019-03-31'
+```
