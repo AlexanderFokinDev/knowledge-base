@@ -16,4 +16,4 @@ Every day I improve my skills as an Android Developer:
 | [Leetcode](documents/leetcode.md)             | 20                 |
 | [Kotlin](documents/kotlin.md)                 | 3                  |
 | [Android](documents/android.md)               | 0                  |
-| [1C](documents/oneS.md)                       | 2                  |
+| [1C](documents/oneS.md)                       | 3                  |
