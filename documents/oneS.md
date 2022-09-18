@@ -153,3 +153,13 @@ http://SharePoint/Pages/Default.aspx
 Работать и программировать в 1С.
 
 **Чтобы всё это заработало, надо сначала запустить VPN на компьютере (можно запросить у админов)**
+
+
+#### 3. Исправление ошибки `Обнаружена незавершенная операция сохранения конфигурации` после динамического обновления
+
+```sql
+DELETE FROM configsave
+DELETE FROM config WHERE FileName = 'commit'
+DELETE FROM config WHERE FileName = 'dynamicCommit'
+DELETE FROM config WHERE FileName = 'dbStruFinal'
+```
