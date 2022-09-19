@@ -34,6 +34,7 @@
 | [Maximum Product Difference Between Two Pairs](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/MaximumProductDifferenceBetweenTwoPairs.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/MaximumProductDifferenceBetweenTwoPairsTest.kt)  |
 | [Maximum Product of Two Elements in an Array](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/MaximumProductOfTwoElementsInArray.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/MaximumProductOfTwoElementsInArrayTest.kt)  |
 | [Find Target Indices After Sorting Array](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/FindTargetIndicesAfterSortingArray.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/FindTargetIndicesAfterSortingArrayTest.kt)  |
+| [Array Partition](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/ArrayPartition.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/ArrayPartitionTest.kt)  |
 
 
 | Hash tables / Set (easy)                                                                                  |
