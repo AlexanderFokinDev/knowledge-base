@@ -13,10 +13,18 @@
         <action
             android:id="@+id/action_startFragment_to_threadsFragment"
             app:destination="@id/threadsFragment" />
+        <action
+            android:id="@+id/action_startFragment_to_broadcastReceiverFragment"
+            app:destination="@id/broadcastReceiverFragment" />
     </fragment>
     <fragment
         android:id="@+id/threadsFragment"
         android:name="pt.amn.knowledgebase.presentation.ThreadsFragment"
         android:label="fragment_threads"
         tools:layout="@layout/fragment_threads" />
+    <fragment
+        android:id="@+id/broadcastReceiverFragment"
+        android:name="pt.amn.knowledgebase.presentation.BroadcastReceiverFragment"
+        android:label="fragment_broadcast_receiver"
+        tools:layout="@layout/fragment_broadcast_receiver" />
 </navigation>

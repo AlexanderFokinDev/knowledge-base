@@ -1,7 +1,11 @@
 <resources>
     <string name="app_name">KnowledgeBase</string>
     <string name="research_threads">Research threads</string>
-    <!-- TODO: Remove or change this placeholder text -->
+    <string name="research_broadcast_receiver">Research broadcast receiver</string>
+
+    <string name="low_energy_message">Energy is getting down. Charge the device</string>
+    <string name="air_regime_message">An airplane regime is changed</string>
+
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="start">Start</string>
 </resources>
