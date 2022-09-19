@@ -57,6 +57,10 @@ class StartFragment : Fragment() {
             btResearchThreads.setOnClickListener (
                 Navigation.createNavigateOnClickListener(R.id.threadsFragment, null)
             )
+
+            btResearchBroadReceiver.setOnClickListener(
+                Navigation.createNavigateOnClickListener(R.id.broadcastReceiverFragment, null)
+            )
         }
     }
 
