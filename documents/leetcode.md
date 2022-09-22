@@ -49,3 +49,4 @@
 | Dynamic programming (easy)                                                                                  |
 | ---------------------------------------------------------------------------------------------- |
 | [Counting Bits](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/CountingBits.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/CountingBitsTest.kt)  |
+| [Divisor Game](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/DivisorGame.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/DivisorGameTest.kt)  |
