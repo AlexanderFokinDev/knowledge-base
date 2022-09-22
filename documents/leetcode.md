@@ -33,6 +33,9 @@
 | [Minimum Number of Moves to Seat Everyone](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/MinimumNumberOfMovesToSeatEveryone.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/MinimumNumberOfMovesToSeatEveryoneTest.kt)  |
 | [Maximum Product Difference Between Two Pairs](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/MaximumProductDifferenceBetweenTwoPairs.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/MaximumProductDifferenceBetweenTwoPairsTest.kt)  |
 | [Maximum Product of Two Elements in an Array](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/MaximumProductOfTwoElementsInArray.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/MaximumProductOfTwoElementsInArrayTest.kt)  |
+| [Find Target Indices After Sorting Array](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/FindTargetIndicesAfterSortingArray.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/FindTargetIndicesAfterSortingArrayTest.kt)  |
+| [Array Partition](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/ArrayPartition.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/ArrayPartitionTest.kt)  |
+| [Sort Array By Parity](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/SortArrayByParity.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/SortArrayByParityTest.kt)  |
 
 
 | Hash tables / Set (easy)                                                                                  |
@@ -41,3 +44,9 @@
 | [Unique Morse Code Words](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/UniqueMorseCodeWords.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/UniqueMorseCodeWordsTest.kt)  |
 | [Rings and Rods](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/RingsAndRods.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/RingsAndRodsTest.kt)  |
 | [Count the Number of Consistent Strings](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/CountTheNumberOfConsistentStrings.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/CountTheNumberOfConsistentStrings.kt)  |
+
+
+| Dynamic programming (easy)                                                                                  |
+| ---------------------------------------------------------------------------------------------- |
+| [Counting Bits](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/CountingBits.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/CountingBitsTest.kt)  |
+| [Divisor Game](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/DivisorGame.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/DivisorGameTest.kt)  |
