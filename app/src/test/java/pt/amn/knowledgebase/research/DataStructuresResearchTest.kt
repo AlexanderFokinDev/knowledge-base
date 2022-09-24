@@ -82,4 +82,12 @@ class DataStructuresResearchTest {
 
         assertTrue(true)
     }
+
+    @Test
+    fun hashMapResearchTest() {
+
+        DataStructuresResearch().hashMapResearch()
+
+        assertTrue(true)
+    }
 }
