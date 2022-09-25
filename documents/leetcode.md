@@ -37,6 +37,7 @@
 | [Find Target Indices After Sorting Array](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/FindTargetIndicesAfterSortingArray.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/FindTargetIndicesAfterSortingArrayTest.kt)  |
 | [Array Partition](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/ArrayPartition.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/ArrayPartitionTest.kt)  |
 | [Sort Array By Parity](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/SortArrayByParity.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/SortArrayByParityTest.kt)  |
+| [Height Checker](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/HeightChecker.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/HeightCheckerTest.kt)  |
 
 
 | Hash tables / Set (easy)                                                                                  |
