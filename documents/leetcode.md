@@ -17,6 +17,8 @@
 | ---------------------------------------------------------------------------------------------- |
 | [Jewels and Stones](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/strings/JewelsAndStones.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/strings/JewelsAndStonesTest.kt)  |
 | [Goal Parser Interpretation](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/strings/GoalParserInterpretation.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/strings/GoalParserInterpretationTest.kt)  |
+| [Defanging IP address](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/strings/DefangingIPAddress.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/strings/DefangingIPAddressTest.kt)  |
+| [Fizz Buzz](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/strings/FizzBuzz.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/strings/FizzBuzzTest.kt)  |
 
 
 | Greedy (easy)                                                                                  |
@@ -24,9 +26,15 @@
 | [Minimum Sum of Four Digit Number After Splitting Digits](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/greedy/MinimumSumOfFourDigit.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/greedy/MinimumSumOfFourDigitTest.kt)  |
 
 
+| Stack (easy)                                                                                  |
+| ---------------------------------------------------------------------------------------------- |
+| [Backspace string compare](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/stack/BackspaceStringCompare.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/stack/BackspaceStringCompareTest.kt)  |
+| [Valid parentheses](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/stack/ValidParentheses.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/stack/ValidParenthesesTest.kt)  |
+
+
 | Math (easy)                                                                                  |
 | ---------------------------------------------------------------------------------------------- |
-| [Subtract the Product and Sum of Digits of an Integer](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/greedy/SubtractProductAndSum.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/greedy/SubtractProductAndSumTest.kt)  |
+| [Subtract the Product and Sum of Digits of an Integer](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/math/SubtractProductAndSum.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/math/SubtractProductAndSumTest.kt)  |
 
 
 | Sorting (easy)                                                                                  |
@@ -48,6 +56,7 @@
 | [Rings and Rods](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/RingsAndRods.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/RingsAndRodsTest.kt)  |
 | [Count the Number of Consistent Strings](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/CountTheNumberOfConsistentStrings.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/CountTheNumberOfConsistentStringsTest.kt)  |
 | [Destination City](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/DestinationCity.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/DestinationCityTest.kt)  |
+| [Valid anagram](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/ValidAnagram.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/ValidAnagramTest.kt)  |
 
 
 | Dynamic programming (easy)                                                                                  |
