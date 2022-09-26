@@ -16,6 +16,7 @@
 | Strings (easy)                                                                                  |
 | ---------------------------------------------------------------------------------------------- |
 | [Jewels and Stones](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/strings/JewelsAndStones.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/strings/JewelsAndStonesTest.kt)  |
+| [Goal Parser Interpretation](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/strings/GoalParserInterpretation.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/strings/GoalParserInterpretationTest.kt)  |
 
 
 | Greedy (easy)                                                                                  |
