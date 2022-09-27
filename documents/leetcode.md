@@ -19,6 +19,7 @@
 | [Goal Parser Interpretation](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/strings/GoalParserInterpretation.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/strings/GoalParserInterpretationTest.kt)  |
 | [Defanging IP address](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/strings/DefangingIPAddress.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/strings/DefangingIPAddressTest.kt)  |
 | [Fizz Buzz](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/strings/FizzBuzz.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/strings/FizzBuzzTest.kt)  |
+| [Cells in a Range on an Excel Sheet](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/strings/CellsInARangeOnAnExcelSheet.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/strings/CellsInARangeOnAnExcelSheetTest.kt)  |
 
 
 | Greedy (easy)                                                                                  |
