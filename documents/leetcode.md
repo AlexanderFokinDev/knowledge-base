@@ -11,6 +11,10 @@
 | [Decode XOR-ed Array](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/DecodeXORedArray.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/DecodeXORedArrayTest.kt)  |
 | [Count Items Matching a Rule](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/CountItemsMatchingARule.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/CountItemsMatchingARuleTest.kt)  |
 | [Matrix Diagonal Sum](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/MatrixDiagonalSum.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/MatrixDiagonalSumTest.kt)  |
+| [Best Time to Buy and Sell Stock](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/BestTimeToBuyAndSellStock.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/BestTimeToBuyAndSellStockTest.kt)  |
+| [Binary Search](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/BinarySearch.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/BinarySearchTest.kt)  |
+| [Build Array from Permutation](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/BuildArrayFromPermutation.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/BuildArrayFromPermutationTest.kt)  |
+| [Concatenation of Array](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/ConcatenationArray.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/ConcatenationArrayTest.kt)  |
 
 
 | Strings (easy)                                                                                  |
@@ -65,3 +69,4 @@
 | ---------------------------------------------------------------------------------------------- |
 | [Counting Bits](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/CountingBits.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/CountingBitsTest.kt)  |
 | [Divisor Game](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/DivisorGame.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/DivisorGameTest.kt)  |
+| [Climbing Stairs](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/ClimbingStairs.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/ClimbingStairsTest.kt)  |
