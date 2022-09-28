@@ -1,7 +1,6 @@
-package pt.amn.knowledgebase.leetcode.easy
+package pt.amn.knowledgebase.leetcode.easy.stack
 
 import pt.amn.knowledgebase.leetcode.Solution
-import java.util.*
 
 /**
  * Given two strings s and t, return true if they are equal when both are typed into empty

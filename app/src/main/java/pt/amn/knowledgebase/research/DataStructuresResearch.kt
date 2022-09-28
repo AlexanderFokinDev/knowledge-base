@@ -41,6 +41,16 @@ class DataStructuresResearch {
 
     fun hashMapResearch() {
 
+        val hashMap1 = hashMapOf(1 to "one", 2 to "two", 3 to "three")
+        val hashMap2 = hashMapOf(1 to "one", 2 to "two", 3 to "three")
+        val hashMap3 = hashMapOf(1 to "one", 2 to "two", 3 to "three", 4 to "four")
+        val hashMap4 = hashMapOf(1 to "one", 4 to "four")
+
+        println("hashMap1 = hashMap2: " + (hashMap1 == hashMap2))
+        println("hashMap1.get(2): " + hashMap1.get(2))
+        println("hashMap3.containsKey(5): " + hashMap3.containsKey(5))
+        println("hashMap4.put(5, \"five\"): " + hashMap4.put(5, "five"))
+
     }
 
     fun linkedHashSetResearch() {

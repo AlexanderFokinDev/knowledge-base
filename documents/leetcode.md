@@ -10,11 +10,20 @@
 | [Create Target Array in the Given Order](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/CreateTargetArrayInTheGivenOrder.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/CreateTargetArrayInTheGivenOrderTest.kt)  |
 | [Decode XOR-ed Array](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/DecodeXORedArray.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/DecodeXORedArrayTest.kt)  |
 | [Count Items Matching a Rule](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/CountItemsMatchingARule.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/CountItemsMatchingARuleTest.kt)  |
+| [Matrix Diagonal Sum](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/MatrixDiagonalSum.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/MatrixDiagonalSumTest.kt)  |
+| [Best Time to Buy and Sell Stock](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/BestTimeToBuyAndSellStock.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/BestTimeToBuyAndSellStockTest.kt)  |
+| [Binary Search](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/BinarySearch.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/BinarySearchTest.kt)  |
+| [Build Array from Permutation](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/BuildArrayFromPermutation.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/BuildArrayFromPermutationTest.kt)  |
+| [Concatenation of Array](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/ConcatenationArray.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/ConcatenationArrayTest.kt)  |
 
 
 | Strings (easy)                                                                                  |
 | ---------------------------------------------------------------------------------------------- |
 | [Jewels and Stones](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/strings/JewelsAndStones.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/strings/JewelsAndStonesTest.kt)  |
+| [Goal Parser Interpretation](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/strings/GoalParserInterpretation.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/strings/GoalParserInterpretationTest.kt)  |
+| [Defanging IP address](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/strings/DefangingIPAddress.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/strings/DefangingIPAddressTest.kt)  |
+| [Fizz Buzz](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/strings/FizzBuzz.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/strings/FizzBuzzTest.kt)  |
+| [Cells in a Range on an Excel Sheet](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/strings/CellsInARangeOnAnExcelSheet.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/strings/CellsInARangeOnAnExcelSheetTest.kt)  |
 
 
 | Greedy (easy)                                                                                  |
@@ -22,9 +31,15 @@
 | [Minimum Sum of Four Digit Number After Splitting Digits](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/greedy/MinimumSumOfFourDigit.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/greedy/MinimumSumOfFourDigitTest.kt)  |
 
 
+| Stack (easy)                                                                                  |
+| ---------------------------------------------------------------------------------------------- |
+| [Backspace string compare](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/stack/BackspaceStringCompare.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/stack/BackspaceStringCompareTest.kt)  |
+| [Valid parentheses](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/stack/ValidParentheses.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/stack/ValidParenthesesTest.kt)  |
+
+
 | Math (easy)                                                                                  |
 | ---------------------------------------------------------------------------------------------- |
-| [Subtract the Product and Sum of Digits of an Integer](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/greedy/SubtractProductAndSum.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/greedy/SubtractProductAndSumTest.kt)  |
+| [Subtract the Product and Sum of Digits of an Integer](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/math/SubtractProductAndSum.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/math/SubtractProductAndSumTest.kt)  |
 
 
 | Sorting (easy)                                                                                  |
@@ -36,6 +51,7 @@
 | [Find Target Indices After Sorting Array](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/FindTargetIndicesAfterSortingArray.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/FindTargetIndicesAfterSortingArrayTest.kt)  |
 | [Array Partition](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/ArrayPartition.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/ArrayPartitionTest.kt)  |
 | [Sort Array By Parity](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/SortArrayByParity.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/SortArrayByParityTest.kt)  |
+| [Height Checker](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/HeightChecker.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/HeightCheckerTest.kt)  |
 
 
 | Hash tables / Set (easy)                                                                                  |
@@ -43,10 +59,14 @@
 | [Decode the Message](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/DecodeTheMessage.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/DecodeTheMessageTest.kt)  |
 | [Unique Morse Code Words](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/UniqueMorseCodeWords.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/UniqueMorseCodeWordsTest.kt)  |
 | [Rings and Rods](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/RingsAndRods.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/RingsAndRodsTest.kt)  |
-| [Count the Number of Consistent Strings](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/CountTheNumberOfConsistentStrings.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/CountTheNumberOfConsistentStrings.kt)  |
+| [Count the Number of Consistent Strings](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/CountTheNumberOfConsistentStrings.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/CountTheNumberOfConsistentStringsTest.kt)  |
+| [Destination City](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/DestinationCity.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/DestinationCityTest.kt)  |
+| [Valid anagram](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/ValidAnagram.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/ValidAnagramTest.kt)  |
+| [Sort the People](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/SortThePeople.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/SortThePeopleTest.kt)  |
 
 
 | Dynamic programming (easy)                                                                                  |
 | ---------------------------------------------------------------------------------------------- |
 | [Counting Bits](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/CountingBits.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/CountingBitsTest.kt)  |
 | [Divisor Game](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/DivisorGame.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/DivisorGameTest.kt)  |
+| [Climbing Stairs](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/ClimbingStairs.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/ClimbingStairsTest.kt)  |
