@@ -58,6 +58,7 @@
 | [Count the Number of Consistent Strings](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/CountTheNumberOfConsistentStrings.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/CountTheNumberOfConsistentStringsTest.kt)  |
 | [Destination City](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/DestinationCity.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/DestinationCityTest.kt)  |
 | [Valid anagram](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/ValidAnagram.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/ValidAnagramTest.kt)  |
+| [Sort the People](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/SortThePeople.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/SortThePeopleTest.kt)  |
 
 
 | Dynamic programming (easy)                                                                                  |
