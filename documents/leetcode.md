@@ -15,6 +15,8 @@
 | [Binary Search](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/BinarySearch.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/BinarySearchTest.kt)  |
 | [Build Array from Permutation](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/BuildArrayFromPermutation.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/BuildArrayFromPermutationTest.kt)  |
 | [Concatenation of Array](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/ConcatenationArray.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/ConcatenationArrayTest.kt)  |
+| [Contains Duplicate](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/ContainsDuplicate.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/ContainsDuplicateTest.kt)  |
+| [Final Value of Variable After Performing Operations](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/FinalValueVariableAfterPerformingOperations.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/FinalValueVariableAfterPerformingOperationsTest.kt)  |
 
 
 | Strings (easy)                                                                                  |
@@ -40,6 +42,8 @@
 | Math (easy)                                                                                  |
 | ---------------------------------------------------------------------------------------------- |
 | [Subtract the Product and Sum of Digits of an Integer](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/math/SubtractProductAndSum.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/math/SubtractProductAndSumTest.kt)  |
+| [Excel Sheet Column Number](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/math/ExcelSheetColumnNumber.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/math/ExcelSheetColumnNumberTest.kt)  |
+| [Fibonacci Number](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/math/FibonacciNumber.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/math/FibonacciNumberTest.kt)  |
 
 
 | Sorting (easy)                                                                                  |
@@ -71,3 +75,8 @@
 | [Counting Bits](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/CountingBits.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/CountingBitsTest.kt)  |
 | [Divisor Game](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/DivisorGame.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/DivisorGameTest.kt)  |
 | [Climbing Stairs](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/ClimbingStairs.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/ClimbingStairsTest.kt)  |
+
+
+| Linked list (medium)                                                                                  |
+| ---------------------------------------------------------------------------------------------- |
+| [Delete Node in a Linked List](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/linkedlist/DeleteNodeInLinkedList.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/linkedlist/DeleteNodeInLinkedListTest.kt)  |
