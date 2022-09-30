@@ -1,4 +1,4 @@
-package pt.amn.knowledgebase.leetcode.easy
+package pt.amn.knowledgebase.leetcode.easy.binarysearch
 
 import pt.amn.knowledgebase.leetcode.Solution
 

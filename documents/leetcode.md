@@ -17,6 +17,8 @@
 | [Concatenation of Array](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/ConcatenationArray.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/ConcatenationArrayTest.kt)  |
 | [Contains Duplicate](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/ContainsDuplicate.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/ContainsDuplicateTest.kt)  |
 | [Final Value of Variable After Performing Operations](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/FinalValueVariableAfterPerformingOperations.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/FinalValueVariableAfterPerformingOperationsTest.kt)  |
+| [Find Pivot Index](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/FindPivotIndex.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/FindPivotIndexTest.kt)  |
+| [Flood Fill](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/FloodFill.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/FloodFillTest.kt)  |
 
 
 | Strings (easy)                                                                                  |
@@ -26,6 +28,7 @@
 | [Defanging IP address](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/strings/DefangingIPAddress.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/strings/DefangingIPAddressTest.kt)  |
 | [Fizz Buzz](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/strings/FizzBuzz.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/strings/FizzBuzzTest.kt)  |
 | [Cells in a Range on an Excel Sheet](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/strings/CellsInARangeOnAnExcelSheet.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/strings/CellsInARangeOnAnExcelSheetTest.kt)  |
+| [First Unique Character in a String](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/strings/FirstUniqueCharacterInString.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/strings/FirstUniqueCharacterInStringTest.kt)  |
 
 
 | Greedy (easy)                                                                                  |
@@ -76,6 +79,11 @@
 | [Counting Bits](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/CountingBits.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/CountingBitsTest.kt)  |
 | [Divisor Game](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/DivisorGame.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/DivisorGameTest.kt)  |
 | [Climbing Stairs](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/ClimbingStairs.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/ClimbingStairsTest.kt)  |
+
+
+| Binary search (easy)                                                                                  |
+| ---------------------------------------------------------------------------------------------- |
+| [First Bad Version](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/binarysearch/FirstBadVersion.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/binarysearch/FirstBadVersionTest.kt)  |
 
 
 | Linked list (medium)                                                                                  |
