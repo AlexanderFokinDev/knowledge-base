@@ -72,6 +72,7 @@
 | [Sort the People](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/SortThePeople.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/SortThePeopleTest.kt)  |
 | [Maximum Number of Pairs in Array](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/MaximumNumberOfPairsInArray.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/MaximumNumberOfPairsInArrayTest.kt)  |
 | [First Letter to Appear Twice](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/FirstLetterToAppearTwice.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/FirstLetterToAppearTwiceTest.kt)  |
+| [N-Repeated Element in Size 2N Array](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/NRepeatedElementInSize2NArray.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/NRepeatedElementInSize2NArrayTest.kt)  |
 
 
 | Dynamic programming (easy)                                                                                  |
