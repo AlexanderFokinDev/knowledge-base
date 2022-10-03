@@ -1,6 +1,5 @@
-package pt.amn.knowledgebase.leetcode.easy
+package pt.amn.knowledgebase.leetcode.easy.hashtable
 
-import android.os.Build.VERSION_CODES.M
 import pt.amn.knowledgebase.leetcode.Solution
 
 /**
