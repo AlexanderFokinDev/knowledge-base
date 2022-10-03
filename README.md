@@ -13,7 +13,7 @@ Every day I improve my skills as an Android Developer:
 | --------------------------------------------- | ------------------ |
 | [SQL](documents/sql.md)                       | 8                  |
 | [Algorithms](documents/algorithm.md)          | 1                  |
-| [Leetcode](documents/leetcode.md)             | 52                 |
+| [Leetcode](documents/leetcode.md)             | 53                 |
 | [Kotlin](documents/kotlin.md)                 | 3                  |
 | [Android](documents/android.md)               | 0                  |
 | [1C](documents/oneS.md)                       | 3                  |
