@@ -19,6 +19,8 @@
 | [Final Value of Variable After Performing Operations](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/FinalValueVariableAfterPerformingOperations.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/FinalValueVariableAfterPerformingOperationsTest.kt)  |
 | [Find Pivot Index](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/FindPivotIndex.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/FindPivotIndexTest.kt)  |
 | [Flood Fill](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/FloodFill.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/FloodFillTest.kt)  |
+| [Kids With the Greatest Number of Candies](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/KidsWithTheGreatestNumberOfCandies.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/KidsWithTheGreatestNumberOfCandiesTest.kt)  |
+| [Last Stone Weight](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/LastStoneWeight.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/LastStoneWeightTest.kt)  |
 
 
 | Strings (easy)                                                                                  |
@@ -29,6 +31,7 @@
 | [Fizz Buzz](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/strings/FizzBuzz.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/strings/FizzBuzzTest.kt)  |
 | [Cells in a Range on an Excel Sheet](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/strings/CellsInARangeOnAnExcelSheet.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/strings/CellsInARangeOnAnExcelSheetTest.kt)  |
 | [First Unique Character in a String](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/strings/FirstUniqueCharacterInString.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/strings/FirstUniqueCharacterInStringTest.kt)  |
+| [Is Subsequence](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/strings/IsSubsequence.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/strings/IsSubsequenceTest.kt)  |
 
 
 | Greedy (easy)                                                                                  |
@@ -74,6 +77,8 @@
 | [Maximum Number of Pairs in Array](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/MaximumNumberOfPairsInArray.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/MaximumNumberOfPairsInArrayTest.kt)  |
 | [First Letter to Appear Twice](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/FirstLetterToAppearTwice.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/FirstLetterToAppearTwiceTest.kt)  |
 | [N-Repeated Element in Size 2N Array](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/NRepeatedElementInSize2NArray.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/NRepeatedElementInSize2NArrayTest.kt)  |
+| [Happy Number](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/HappyNumber.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/HappyNumberTest.kt)  |
+| [Isomorphic Strings](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/IsomorphicStrings.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/IsomorphicStringsTest.kt)  |
 
 
 | Dynamic programming (easy)                                                                                  |
