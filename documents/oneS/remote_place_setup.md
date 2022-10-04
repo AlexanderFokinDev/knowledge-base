@@ -19,7 +19,7 @@
 Чтобы локальная 1С видела лицензии компании необходимо прописать в файле 
 C:\Program Files\1cv8\conf\nethasp.ini список серверов с лицензиями. 
 
-[Пример файла nethasp.ini](oneS/nethasp.ini)
+[Пример файла nethasp.ini](../oneS/nethasp.ini)
 
 ```text
 NH_SERVER_ADDR = 192.168.20.98, 192.168.20.14, 192.168.20.101
@@ -33,7 +33,7 @@ Srvr="RFTEST1C00001.office.local";Ref="erp_productive";
 дополнительные параметры запуска для базы
 /N ваш_логин /P ваш_пароль
 
-![listDB](oneS/listDB.jpg)
+![listDB](../oneS/listDB.jpg)
 
 Другие параметры командной строки запуска можно посмотреть [здесь](https://wiseadvice-it.ru/o-kompanii/blog/articles/parametry-komandnoi-stroki-v-1s-8-3/).
 
