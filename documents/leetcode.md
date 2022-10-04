@@ -63,6 +63,7 @@
 | [Array Partition](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/ArrayPartition.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/ArrayPartitionTest.kt)  |
 | [Sort Array By Parity](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/SortArrayByParity.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/SortArrayByParityTest.kt)  |
 | [Height Checker](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/HeightChecker.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/HeightCheckerTest.kt)  |
+| [Maximum Units on a Truck](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/MaximumUnitsOnATruck.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/MaximumUnitsOnATruckTest.kt)  |
 
 
 | Hash tables / Set (easy)                                                                                  |
