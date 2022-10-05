@@ -87,6 +87,7 @@
 | [Counting Bits](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/CountingBits.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/CountingBitsTest.kt)  |
 | [Divisor Game](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/DivisorGame.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/DivisorGameTest.kt)  |
 | [Climbing Stairs](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/ClimbingStairs.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/ClimbingStairsTest.kt)  |
+| [N-th Tribonacci Number](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/NthTribonacciNumber.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/NthTribonacciNumberTest.kt)  |
 
 
 | Binary search (easy)                                                                                  |
