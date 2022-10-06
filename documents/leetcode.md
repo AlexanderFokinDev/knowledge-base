@@ -80,6 +80,7 @@
 | [N-Repeated Element in Size 2N Array](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/NRepeatedElementInSize2NArray.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/NRepeatedElementInSize2NArrayTest.kt)  |
 | [Happy Number](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/HappyNumber.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/HappyNumberTest.kt)  |
 | [Isomorphic Strings](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/IsomorphicStrings.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/IsomorphicStringsTest.kt)  |
+| [Sum of Unique Elements](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/SumOfUniqueElements.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/SumOfUniqueElementsTest.kt)  |
 
 
 | Dynamic programming (easy)                                                                                  |
