@@ -1,4 +1,4 @@
-package pt.amn.knowledgebase.leetcode.easy
+package pt.amn.knowledgebase.leetcode.easy.linkedlist
 
 import org.junit.Assert.*
 import org.junit.Test

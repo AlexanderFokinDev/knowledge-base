@@ -1,8 +1,9 @@
-package pt.amn.knowledgebase.leetcode.easy
+package pt.amn.knowledgebase.leetcode.medium.tree
 
 import org.junit.Assert.*
 import org.junit.Test
 import pt.amn.knowledgebase.leetcode.TreeNode
+import pt.amn.knowledgebase.leetcode.medium.tree.LowestCommonAncestorOfABinarySearchTree
 
 class LowestCommonAncestorOfABinarySearchTreeTest {
 

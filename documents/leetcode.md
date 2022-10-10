@@ -21,6 +21,7 @@
 | [Flood Fill](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/FloodFill.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/FloodFillTest.kt)  |
 | [Kids With the Greatest Number of Candies](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/KidsWithTheGreatestNumberOfCandies.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/KidsWithTheGreatestNumberOfCandiesTest.kt)  |
 | [Last Stone Weight](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/LastStoneWeight.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/LastStoneWeightTest.kt)  |
+| [Majority Element](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/MajorityElement.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/MajorityElementTest.kt)  |
 
 
 | Strings (easy)                                                                                  |
@@ -32,6 +33,7 @@
 | [Cells in a Range on an Excel Sheet](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/strings/CellsInARangeOnAnExcelSheet.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/strings/CellsInARangeOnAnExcelSheetTest.kt)  |
 | [First Unique Character in a String](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/strings/FirstUniqueCharacterInString.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/strings/FirstUniqueCharacterInStringTest.kt)  |
 | [Is Subsequence](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/strings/IsSubsequence.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/strings/IsSubsequenceTest.kt)  |
+| [Longest Common Prefix](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/strings/LongestCommonPrefix.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/strings/LongestCommonPrefixTest.kt)  |
 
 
 | Greedy (easy)                                                                                  |
@@ -84,6 +86,7 @@
 | [Happy Number](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/HappyNumber.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/HappyNumberTest.kt)  |
 | [Isomorphic Strings](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/IsomorphicStrings.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/IsomorphicStringsTest.kt)  |
 | [Sum of Unique Elements](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/SumOfUniqueElements.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/SumOfUniqueElementsTest.kt)  |
+| [Longest Palindrome](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/LongestPalindrome.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/LongestPalindromeTest.kt)  |
 
 
 | Dynamic programming (easy)                                                                                  |
@@ -99,6 +102,16 @@
 | [First Bad Version](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/binarysearch/FirstBadVersion.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/binarysearch/FirstBadVersionTest.kt)  |
 
 
+| Linked list (easy)                                                                                  |
+| ---------------------------------------------------------------------------------------------- |
+| [Merge Two Sorted Lists](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/linkedlist/MergeTwoSortedLists.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/linkedlist/MergeTwoSortedListsTest.kt)  |
+
+
 | Linked list (medium)                                                                                  |
 | ---------------------------------------------------------------------------------------------- |
-| [Delete Node in a Linked List](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/linkedlist/DeleteNodeInLinkedList.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/linkedlist/DeleteNodeInLinkedListTest.kt)  |
+| [Delete Node in a Linked List](../app/src/main/java/pt/amn/knowledgebase/leetcode/medium/linkedlist/DeleteNodeInLinkedList.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/medium/linkedlist/DeleteNodeInLinkedListTest.kt)  |
+
+
+| Tree (medium)                                                                                  |
+| ---------------------------------------------------------------------------------------------- |
+| [Lowest Common Ancestor of a Binary Search Tree](../app/src/main/java/pt/amn/knowledgebase/leetcode/medium/tree/LowestCommonAncestorOfABinarySearchTree.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/medium/tree/LowestCommonAncestorOfABinarySearchTreeTest.kt)  |
