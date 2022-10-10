@@ -38,6 +38,7 @@
 | ---------------------------------------------------------------------------------------------- |
 | [Minimum Sum of Four Digit Number After Splitting Digits](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/greedy/MinimumSumOfFourDigit.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/greedy/MinimumSumOfFourDigitTest.kt)  |
 | [Maximum 69 Number](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/greedy/Maximum69Number.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/greedy/Maximum69NumberTest.kt)  |
+| [Split a String in Balanced Strings](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/greedy/SplitAStringInBalancedStrings.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/greedy/SplitAStringInBalancedStringsTest.kt)  |
 
 
 | Stack (easy)                                                                                  |
