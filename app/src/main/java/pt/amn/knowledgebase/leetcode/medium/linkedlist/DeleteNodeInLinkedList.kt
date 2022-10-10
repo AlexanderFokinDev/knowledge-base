@@ -1,4 +1,4 @@
-package pt.amn.knowledgebase.leetcode.easy.linkedlist
+package pt.amn.knowledgebase.leetcode.medium.linkedlist
 
 import pt.amn.knowledgebase.leetcode.ListNode
 import pt.amn.knowledgebase.leetcode.Solution

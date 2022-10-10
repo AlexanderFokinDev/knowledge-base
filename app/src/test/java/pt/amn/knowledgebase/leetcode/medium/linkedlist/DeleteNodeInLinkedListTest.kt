@@ -1,8 +1,9 @@
-package pt.amn.knowledgebase.leetcode.easy.linkedlist
+package pt.amn.knowledgebase.leetcode.medium.linkedlist
 
 import org.junit.Assert.*
 import org.junit.Test
 import pt.amn.knowledgebase.leetcode.ListNode
+import pt.amn.knowledgebase.leetcode.medium.linkedlist.DeleteNodeInLinkedList
 
 class DeleteNodeInLinkedListTest {
 
