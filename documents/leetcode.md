@@ -87,6 +87,7 @@
 | [Isomorphic Strings](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/IsomorphicStrings.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/IsomorphicStringsTest.kt)  |
 | [Sum of Unique Elements](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/SumOfUniqueElements.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/SumOfUniqueElementsTest.kt)  |
 | [Longest Palindrome](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/LongestPalindrome.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/LongestPalindromeTest.kt)  |
+| [Unique Number of Occurrences](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/UniqueNumberOfOccurrences.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/UniqueNumberOfOccurrencesTest.kt)  |
 
 
 | Dynamic programming (easy)                                                                                  |
