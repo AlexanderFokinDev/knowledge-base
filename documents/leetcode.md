@@ -22,6 +22,8 @@
 | [Kids With the Greatest Number of Candies](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/KidsWithTheGreatestNumberOfCandies.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/KidsWithTheGreatestNumberOfCandiesTest.kt)  |
 | [Last Stone Weight](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/LastStoneWeight.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/LastStoneWeightTest.kt)  |
 | [Majority Element](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/MajorityElement.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/MajorityElementTest.kt)  |
+| [Missing Number](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/MissingNumber.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/MissingNumberTest.kt)  |
+| [Move Zeroes](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/MoveZeroes.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/MoveZeroesTest.kt)  |
 
 
 | Strings (easy)                                                                                  |
@@ -47,6 +49,7 @@
 | ---------------------------------------------------------------------------------------------- |
 | [Backspace string compare](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/stack/BackspaceStringCompare.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/stack/BackspaceStringCompareTest.kt)  |
 | [Valid parentheses](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/stack/ValidParentheses.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/stack/ValidParenthesesTest.kt)  |
+| [N-ary Tree Preorder Traversal](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/stack/NaryTreePreorderTraversal.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/stack/NaryTreePreorderTraversalTest.kt)  |
 
 
 | Math (easy)                                                                                  |
@@ -97,6 +100,7 @@
 | [Divisor Game](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/DivisorGame.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/DivisorGameTest.kt)  |
 | [Climbing Stairs](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/ClimbingStairs.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/ClimbingStairsTest.kt)  |
 | [N-th Tribonacci Number](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/NthTribonacciNumber.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/NthTribonacciNumberTest.kt)  |
+| [Min Cost Climbing Stairs](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/MinCostClimbingStairs.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/MinCostClimbingStairsTest.kt)  |
 
 
 | Binary search (easy)                                                                                  |
@@ -107,6 +111,7 @@
 | Linked list (easy)                                                                                  |
 | ---------------------------------------------------------------------------------------------- |
 | [Merge Two Sorted Lists](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/linkedlist/MergeTwoSortedLists.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/linkedlist/MergeTwoSortedListsTest.kt)  |
+| [Middle of the Linked List](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/linkedlist/MiddleOfTheLinkedList.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/linkedlist/MiddleOfTheLinkedListTest.kt)  |
 
 
 | Linked list (medium)                                                                                  |
