@@ -92,6 +92,7 @@
 | [Longest Palindrome](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/LongestPalindrome.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/LongestPalindromeTest.kt)  |
 | [Unique Number of Occurrences](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/UniqueNumberOfOccurrences.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/UniqueNumberOfOccurrencesTest.kt)  |
 | [Find the Difference of Two Arrays](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/FindTheDifferenceOfTwoArrays.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/FindTheDifferenceOfTwoArraysTest.kt)  |
+| [Sort Array by Increasing Frequency](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/SortArrayByIncreasingFrequency.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/SortArrayByIncreasingFrequencyTest.kt)  |
 
 
 | Dynamic programming (easy)                                                                                  |
