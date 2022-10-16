@@ -72,6 +72,7 @@
 | [Height Checker](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/HeightChecker.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/HeightCheckerTest.kt)  |
 | [Maximum Units on a Truck](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/MaximumUnitsOnATruck.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/MaximumUnitsOnATruckTest.kt)  |
 | [Keep Multiplying Found Values by Two](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/KeepMultiplyingFoundValuesByTwo.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/KeepMultiplyingFoundValuesByTwoTest.kt)  |
+| [Intersection of Two Arrays](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/IntersectionOfTwoArrays.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/IntersectionOfTwoArraysTest.kt)  |
 
 
 | Hash tables / Set (easy)                                                                                  |
@@ -92,6 +93,7 @@
 | [Longest Palindrome](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/LongestPalindrome.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/LongestPalindromeTest.kt)  |
 | [Unique Number of Occurrences](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/UniqueNumberOfOccurrences.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/UniqueNumberOfOccurrencesTest.kt)  |
 | [Find the Difference of Two Arrays](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/FindTheDifferenceOfTwoArrays.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/FindTheDifferenceOfTwoArraysTest.kt)  |
+| [Sort Array by Increasing Frequency](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/SortArrayByIncreasingFrequency.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/SortArrayByIncreasingFrequencyTest.kt)  |
 
 
 | Dynamic programming (easy)                                                                                  |
