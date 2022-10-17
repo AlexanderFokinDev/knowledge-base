@@ -24,6 +24,7 @@
 | [Majority Element](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/MajorityElement.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/MajorityElementTest.kt)  |
 | [Missing Number](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/MissingNumber.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/MissingNumberTest.kt)  |
 | [Move Zeroes](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/MoveZeroes.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/MoveZeroesTest.kt)  |
+| [Plus One](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/PlusOne.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/PlusOneTest.kt)  |
 
 
 | Strings (easy)                                                                                  |
@@ -36,6 +37,7 @@
 | [First Unique Character in a String](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/strings/FirstUniqueCharacterInString.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/strings/FirstUniqueCharacterInStringTest.kt)  |
 | [Is Subsequence](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/strings/IsSubsequence.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/strings/IsSubsequenceTest.kt)  |
 | [Longest Common Prefix](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/strings/LongestCommonPrefix.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/strings/LongestCommonPrefixTest.kt)  |
+| [Reverse String](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/strings/ReverseString.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/strings/ReverseStringTest.kt)  |
 
 
 | Greedy (easy)                                                                                  |
@@ -58,6 +60,7 @@
 | [Excel Sheet Column Number](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/math/ExcelSheetColumnNumber.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/math/ExcelSheetColumnNumberTest.kt)  |
 | [Fibonacci Number](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/math/FibonacciNumber.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/math/FibonacciNumberTest.kt)  |
 | [Smallest Even Multiple](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/math/SmallestEvenMultiple.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/math/SmallestEvenMultipleTest.kt)  |
+| [Palindrome Number](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/math/PalindromeNumber.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/math/PalindromeNumberTest.kt)  |
 
 
 | Sorting (easy)                                                                                  |
@@ -104,6 +107,7 @@
 | [Climbing Stairs](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/ClimbingStairs.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/ClimbingStairsTest.kt)  |
 | [N-th Tribonacci Number](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/NthTribonacciNumber.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/NthTribonacciNumberTest.kt)  |
 | [Min Cost Climbing Stairs](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/MinCostClimbingStairs.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/MinCostClimbingStairsTest.kt)  |
+| [Pascal's Triangle](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/PascalTriangle.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/dynamic_programming/PascalTriangleTest.kt)  |
 
 
 | Binary search (easy)                                                                                  |
@@ -115,6 +119,7 @@
 | ---------------------------------------------------------------------------------------------- |
 | [Merge Two Sorted Lists](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/linkedlist/MergeTwoSortedLists.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/linkedlist/MergeTwoSortedListsTest.kt)  |
 | [Middle of the Linked List](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/linkedlist/MiddleOfTheLinkedList.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/linkedlist/MiddleOfTheLinkedListTest.kt)  |
+| [Reverse Linked List](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/linkedlist/ReverseLinkedList.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/linkedlist/ReverseLinkedListTest.kt)  |
 
 
 | Linked list (medium)                                                                                  |

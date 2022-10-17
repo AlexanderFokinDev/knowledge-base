@@ -1,8 +1,8 @@
-package pt.amn.knowledgebase.leetcode.easy
+package pt.amn.knowledgebase.leetcode.easy.math
 
 import org.junit.Assert.*
 import org.junit.Test
-import pt.amn.knowledgebase.leetcode.easy.PalindromeNumber
+import pt.amn.knowledgebase.leetcode.easy.math.PalindromeNumber
 
 class PalindromeNumberTest {
 

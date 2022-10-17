@@ -1,4 +1,4 @@
-package pt.amn.knowledgebase.leetcode.easy
+package pt.amn.knowledgebase.leetcode.easy.arrays
 
 import pt.amn.knowledgebase.leetcode.Solution
 
