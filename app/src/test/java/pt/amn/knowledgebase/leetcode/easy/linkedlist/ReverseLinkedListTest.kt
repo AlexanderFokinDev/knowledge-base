@@ -1,8 +1,9 @@
-package pt.amn.knowledgebase.leetcode.easy
+package pt.amn.knowledgebase.leetcode.easy.linkedlist
 
 import org.junit.Assert.*
 import org.junit.Test
 import pt.amn.knowledgebase.leetcode.ListNode
+import pt.amn.knowledgebase.leetcode.easy.linkedlist.ReverseLinkedList
 
 class ReverseLinkedListTest {
 

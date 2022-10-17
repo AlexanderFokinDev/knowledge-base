@@ -1,7 +1,8 @@
-package pt.amn.knowledgebase.leetcode.easy
+package pt.amn.knowledgebase.leetcode.easy.strings
 
 import org.junit.Assert.*
 import org.junit.Test
+import pt.amn.knowledgebase.leetcode.easy.strings.ReverseString
 
 class ReverseStringTest {
 
