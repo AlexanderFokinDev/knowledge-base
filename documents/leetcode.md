@@ -98,6 +98,7 @@
 | [Find the Difference of Two Arrays](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/FindTheDifferenceOfTwoArrays.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/FindTheDifferenceOfTwoArraysTest.kt)  |
 | [Sort Array by Increasing Frequency](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/SortArrayByIncreasingFrequency.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/SortArrayByIncreasingFrequencyTest.kt)  |
 | [Greatest English Letter in Upper and Lower Case](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/GreatestEnglishLetterInUpperAndLowerCase.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/GreatestEnglishLetterInUpperAndLowerCaseTest.kt)  |
+| [Find Common Characters](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/FindCommonCharacters.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/FindCommonCharactersTest.kt)  |
 
 
 | Dynamic programming (easy)                                                                                  |
