@@ -76,6 +76,7 @@
 | [Maximum Units on a Truck](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/MaximumUnitsOnATruck.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/MaximumUnitsOnATruckTest.kt)  |
 | [Keep Multiplying Found Values by Two](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/KeepMultiplyingFoundValuesByTwo.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/KeepMultiplyingFoundValuesByTwoTest.kt)  |
 | [Intersection of Two Arrays](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/IntersectionOfTwoArrays.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/IntersectionOfTwoArraysTest.kt)  |
+| [Fair Candy Swap](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/FairCandySwap.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/FairCandySwapTest.kt)  |
 
 
 | Hash tables / Set (easy)                                                                                  |
