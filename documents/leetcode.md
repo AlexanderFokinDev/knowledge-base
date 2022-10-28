@@ -25,6 +25,7 @@
 | [Missing Number](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/MissingNumber.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/MissingNumberTest.kt)  |
 | [Move Zeroes](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/MoveZeroes.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/MoveZeroesTest.kt)  |
 | [Plus One](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/PlusOne.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/PlusOneTest.kt)  |
+| [Make Array Zero by Subtracting Equal Amounts](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/MakeArrayZeroBySubtractingEqualAmounts.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/MakeArrayZeroBySubtractingEqualAmountsTest.kt)  |
 
 
 | Strings (easy)                                                                                  |
@@ -76,6 +77,7 @@
 | [Maximum Units on a Truck](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/MaximumUnitsOnATruck.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/MaximumUnitsOnATruckTest.kt)  |
 | [Keep Multiplying Found Values by Two](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/KeepMultiplyingFoundValuesByTwo.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/KeepMultiplyingFoundValuesByTwoTest.kt)  |
 | [Intersection of Two Arrays](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/IntersectionOfTwoArrays.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/IntersectionOfTwoArraysTest.kt)  |
+| [Fair Candy Swap](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/sorting/FairCandySwap.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/sorting/FairCandySwapTest.kt)  |
 
 
 | Hash tables / Set (easy)                                                                                  |
@@ -98,6 +100,7 @@
 | [Find the Difference of Two Arrays](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/FindTheDifferenceOfTwoArrays.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/FindTheDifferenceOfTwoArraysTest.kt)  |
 | [Sort Array by Increasing Frequency](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/SortArrayByIncreasingFrequency.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/SortArrayByIncreasingFrequencyTest.kt)  |
 | [Greatest English Letter in Upper and Lower Case](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/GreatestEnglishLetterInUpperAndLowerCase.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/GreatestEnglishLetterInUpperAndLowerCaseTest.kt)  |
+| [Find Common Characters](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/hashtable/FindCommonCharacters.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/hashtable/FindCommonCharactersTest.kt)  |
 
 
 | Dynamic programming (easy)                                                                                  |
