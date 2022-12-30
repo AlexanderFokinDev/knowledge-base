@@ -26,6 +26,7 @@
 | [Move Zeroes](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/MoveZeroes.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/MoveZeroesTest.kt)  |
 | [Plus One](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/PlusOne.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/PlusOneTest.kt)  |
 | [Make Array Zero by Subtracting Equal Amounts](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/MakeArrayZeroBySubtractingEqualAmounts.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/MakeArrayZeroBySubtractingEqualAmountsTest.kt)  |
+| [Check If Two String Arrays are Equivalent](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/arrays/CheckIfTwoStringArraysAreEquivalent.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/arrays/CheckIfTwoStringArraysAreEquivalentTest.kt)  |
 
 
 | Strings (easy)                                                                                  |
