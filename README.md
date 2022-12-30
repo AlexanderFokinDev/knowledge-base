@@ -12,6 +12,10 @@ Every day I improve my skills as an Android Developer:
 | Useful IT examples and solutions              | Count of examples  |
 | --------------------------------------------- | ------------------ |
 | [SQL](documents/sql.md)                       | 8                  |
+| [Clickhouse](documents/clickhouse.md)         | 1                  |
+| [DBT](documents/dbt.md)                       | 1                  |
+| [Superset](documents/superset.md)             | 1                  |
+| [Jinja](documents/jinja.md)                   | 0                  |
 | [Algorithms](documents/algorithm.md)          | 1                  |
 | [Leetcode](documents/leetcode.md)             | 89                 |
 | [Kotlin](documents/kotlin.md)                 | 3                  |
