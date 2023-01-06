@@ -64,6 +64,7 @@
 | [Smallest Even Multiple](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/math/SmallestEvenMultiple.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/math/SmallestEvenMultipleTest.kt)  |
 | [Palindrome Number](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/math/PalindromeNumber.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/math/PalindromeNumberTest.kt)  |
 | [Convert the Temperature](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/math/ConvertTheTemperature.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/math/ConvertTheTemperatureTest.kt)  |
+| [Number of Steps to Reduce a Number to Zero](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/math/NumberOfStepsToReduceNumberToZero.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/math/NumberOfStepsToReduceNumberToZeroTest.kt)  |
 
 
 | Sorting (easy)                                                                                  |
