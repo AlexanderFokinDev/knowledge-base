@@ -17,7 +17,7 @@ Every day I improve my skills as an Android Developer:
 | [Superset](documents/superset.md)             | 1                  |
 | [Jinja](documents/jinja.md)                   | 0                  |
 | [Algorithms](documents/algorithm.md)          | 1                  |
-| [Leetcode](documents/leetcode.md)             | 89                 |
+| [Leetcode](documents/leetcode.md)             | 90                 |
 | [Kotlin](documents/kotlin.md)                 | 3                  |
 | [Android](documents/android.md)               | 0                  |
 | [1C](documents/oneS.md)                       | 3                  |

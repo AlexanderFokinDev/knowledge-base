@@ -63,6 +63,7 @@
 | [Fibonacci Number](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/math/FibonacciNumber.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/math/FibonacciNumberTest.kt)  |
 | [Smallest Even Multiple](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/math/SmallestEvenMultiple.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/math/SmallestEvenMultipleTest.kt)  |
 | [Palindrome Number](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/math/PalindromeNumber.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/math/PalindromeNumberTest.kt)  |
+| [Convert the Temperature](../app/src/main/java/pt/amn/knowledgebase/leetcode/easy/math/ConvertTheTemperature.kt), [Tests](../app/src/test/java/pt/amn/knowledgebase/leetcode/easy/math/ConvertTheTemperatureTest.kt)  |
 
 
 | Sorting (easy)                                                                                  |
