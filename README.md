@@ -12,7 +12,7 @@ Every day I improve my skills as an Android Developer:
 | Useful IT examples and solutions              | Count of examples  |
 | --------------------------------------------- | ------------------ |
 | [SQL](documents/sql.md)                       | 8                  |
-| [Clickhouse](documents/clickhouse.md)         | 1                  |
+| [Clickhouse](documents/clickhouse.md)         | 4                  |
 | [DBT](documents/dbt.md)                       | 1                  |
 | [Superset](documents/superset.md)             | 1                  |
 | [Jinja](documents/jinja.md)                   | 0                  |
