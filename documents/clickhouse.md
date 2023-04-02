@@ -54,7 +54,7 @@ SELECT * FROM test_int_attr_weights
 
 ```sql
 SELECT
-    toString(toFloat64(min(toUInt64(acc_id)))) as min_range,
+    toString(toFloat64(min(toUInt256(acc_id)))) as min_range,
     toString(toFloat64(max(toUInt256(acc_id)))) as max_range,
     arrayStringConcat(quantiles(1/10, 2/10, 3/10, 4/10, 5/10, 6/10, 7/10, 8/10, 9/10, 10/10)(toUInt256(acc_id)), ',') as quantiles_acc
 FROM
