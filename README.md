@@ -8,15 +8,16 @@ Every day I improve my skills as an Android Developer:
 
 
 ### Table of Contents
-| Useful IT examples and solutions              | Count of examples  |
-| --------------------------------------------- | ------------------ |
-| [SQL](documents/sql.md)                       | 8                  |
-| [Clickhouse](documents/clickhouse.md)         | 4                  |
-| [DBT](documents/dbt.md)                       | 1                  |
-| [Superset](documents/superset.md)             | 1                  |
-| [Jinja](documents/jinja.md)                   | 0                  |
-| [Algorithms](documents/algorithm.md)          | 1                  |
-| [Leetcode](documents/leetcode.md)             | 91                 |
-| [Kotlin](documents/kotlin.md)                 | 3                  |
-| [Android](documents/android.md)               | 0                  |
-| [1C](documents/oneS.md)                       | 3                  |
+| Useful IT examples and solutions                    | Description                                                           |
+| --------------------------------------------------- | --------------------------------------------------------------------- |
+| [Code Review Guidelines](documents/code_review.md)  | Best practices and tips for reviewing code efficiently and thoroughly |
+| [SQL](documents/sql.md)                             | Common queries, optimization techniques, and practical use cases      |
+| [Clickhouse](documents/clickhouse.md)               | Setup, queries, and performance tuning for the Clickhouse database    |
+| [DBT](documents/dbt.md)                             | How to structure, test, and document data transformations in DBT      |
+| [Superset](documents/superset.md)                   | Building dashboards, data exploration, and visualization best practices|
+| [Jinja](documents/jinja.md)                         | Template language tips and examples for dynamic content generation    |
+| [Algorithms](documents/algorithm.md)                | Core algorithmic concepts and coding examples                         |
+| [Leetcode](documents/leetcode.md)                   | Practice tasks, solutions, and explanations for Leetcode problems     |
+| [Kotlin](documents/kotlin.md)                       | Language features, coding patterns, and practical Kotlin examples      |
+| [Android](documents/android.md)                     | Development essentials, app architecture, and helpful libraries       |
+| [1C](documents/oneS.md)                             | 1C platform solutions, configurations, and integration tips           |
